@@ -1,0 +1,3 @@
+trace
+scar
+used item

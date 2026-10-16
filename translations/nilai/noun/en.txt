@@ -1,0 +1,4 @@
+value
+score
+price
+grade

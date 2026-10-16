@@ -1,0 +1,4 @@
+melt
+liquidate
+cash
+thaw

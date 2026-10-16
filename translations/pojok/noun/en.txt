@@ -1,0 +1,3 @@
+corner
+nook
+column

@@ -1,0 +1,3 @@
+stab
+poke
+smuggle
